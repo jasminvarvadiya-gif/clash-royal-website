@@ -1,0 +1,309 @@
+*{
+    margin: 0;padding: 0;
+    box-sizing: border-box;
+     font-family: "Science Gothic", sans-serif;
+}
+.main{
+    position: relative;
+    width: 100%;
+}
+.one{
+    opacity: 60%;
+}
+.back{
+    background-color: rgba(0, 0, 0, 0.918);
+    
+}
+.main-2{
+    display: flex; 
+    justify-content:center;
+    align-items: center;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.349);
+    position: absolute;
+    top: 0px;
+    padding: 10px 0px;
+}
+.logo{
+    width: 40%;
+    padding-left: 50px;
+}
+.logo i{
+    color: white;
+    padding: 0px 20px;
+}
+.new-line{
+    width: 60%;
+}
+.new-line ul{
+    display: flex;
+    justify-content: end;
+}
+.new-line ul li{
+    list-style: none;
+
+}
+.new-line li a{
+    text-decoration: none;
+    color: white;
+    padding-left: 100px;
+}
+.icon{
+    width: 200px;
+    position: absolute;
+    top: 0px;
+    left: 40%;
+}
+.icon img{
+    border-radius: 20px;
+}
+.middle-line{
+    position: absolute;
+    bottom: 20%;
+    left: 27%;
+    text-align: center;
+}
+.middle-line h1{
+    color: orange;
+}
+.middle-line h2 {
+    color: white;
+}
+.middle-line p{
+    color: white;
+}
+.button{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.button-1 button{
+    padding: 5px 10px;
+    border-color: orange;
+    color: orange;
+}
+.button-2 button{
+    padding: 5px 10px;
+    border-color: orange;
+    color: orange;
+}
+/* -----------------------section 1 ============= */
+.main-3{
+    position: relative;
+    
+}
+.box-1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    bottom: 100px;
+    width: 100%;
+}
+.img-1 {
+    width: 30%;
+    margin: 20px;
+}
+.img-1 img{
+    width: 80%;
+    border-radius: 20px;
+}
+.img-2 {
+    width: 40%;
+    margin: 20px;
+}
+.img-2 img{
+    width: 100%;
+    border-radius: 20px;
+}
+.text-1{
+    width: 40%; 
+    margin: 20px;
+    margin-bottom: 20px;
+}
+.text-1 h1{
+    color: orange;
+    padding-bottom: 10px;
+}
+.text-1 h2{
+    color: white;
+
+}
+.text-1 p{
+    padding: 10px;  
+    color: white;
+}
+.text-1 button{
+    padding: 15px 10px;
+    width: 100%;
+    color:white;
+    font-weight: 800;
+    border-radius: 20px;
+    background-color: orange;
+    margin-top: 10px;
+}
+/* ............................section 2 */
+.main-4{
+    position: relative;
+    
+}
+.box-2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    bottom: 100px;
+    width: 100%;
+}
+.img-3 {
+    width: 40%;
+    margin: 20px;
+}
+.img-3 img{
+    width: 100%;
+    border-radius: 20px;
+}
+.img-4 {
+    width: 30%;
+    margin: 20px;
+}
+.img-4 img{
+    width: 100%;
+    border-radius: 20px;
+}
+.text-2{
+    width: 40%; 
+    margin: 20px;
+    margin-bottom: 20px;
+}
+.text-2 h1{
+    color: orange;
+    padding-bottom: 10px;
+}
+.text-2 h2{
+    color: white;
+
+}
+.text-2 p{
+    padding: 10px;  
+    color: white;
+}
+.text-2 button{
+    padding: 15px 10px;
+    width: 100%;
+    color:white;
+    font-weight: 800;
+    border-radius: 20px;
+    background-color: orange;
+    margin-top: 10px;
+}
+/* --------------------section 3 */
+.main-5{
+    position: relative;
+    
+}
+.box-3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    bottom: 100px;
+    width: 100%;
+}
+.img-5 {
+    width: 30%;
+    margin: 20px;
+}
+.img-5 img{
+    width: 80%;
+    border-radius: 20px;
+}
+.img-6 {
+    width: 30%;
+    margin: 20px;
+}
+.img-6 img{
+    width: 100%;
+    border-radius: 20px;
+}
+.text-3{
+    width: 40%; 
+    margin: 20px;
+    margin-bottom: 20px;
+}
+.text-3 h1{
+    color: orange;
+    padding-bottom: 10px;
+}
+.text-3 h2{
+    color: white;
+}
+.text-3 p{
+    padding: 10px;  
+    color: white;
+    font-weight: 800;
+}
+.text-3 button{
+    padding: 15px 10px;
+    width: 100%;
+    color:white;
+    font-weight: 800;
+    border-radius: 20px;
+    background-color: orange;
+    margin-top: 10px;
+}
+/* ----------------section 4   */
+.main-6{
+    position: relative;
+    
+}
+.box-4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    bottom: 100px;
+    width: 100%;
+}
+.img-7 {
+    width: 30%;
+    margin: 20px;
+}
+.img-7 img{
+    width: 80%;
+    border-radius: 20px;
+}
+.img-8 {
+    width: 30%;
+    margin: 20px;
+}
+.img-8 img{
+    width: 100%;
+    border-radius: 20px;
+}
+.text-4{
+    width: 40%; 
+    margin: 20px;
+    margin-bottom: 20px;
+}
+.text-4 h1{
+    color: orange;
+    padding-bottom: 10px;
+}
+.text-4 h2{
+    color: white;
+}
+.text-4 p{
+    padding: 10px;  
+    color: white;
+    font-weight: 800;
+}
+.text-4 button{
+    padding: 15px 10px;
+    width: 100%;
+    color:white;
+    font-weight: 800;
+    border-radius: 20px;
+    background-color: orange;
+    margin-top: 10px;
+}

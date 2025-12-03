@@ -1,0 +1,125 @@
+*{
+    margin: 0;padding: 0;
+    box-sizing: border-box;
+    font-family:     SupercellText-Regular, Helvetica, Arial, sans-serif;;
+}
+.main-1{
+    background-color: rgba(0, 0, 0, 0.566);
+}
+.conten{
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+}
+.logo{
+    width: 50%;
+}
+.navigation{
+    width: 50%;
+}
+.navigation ul{
+    display: flex; 
+    justify-content: space-between;
+    align-content: center;
+}
+.navigation ul li{
+    list-style: none;
+}
+.navigation ul li a{
+    color: white;
+    text-decoration: none;
+}
+
+/* /==============================================section 3 */ */
+.main-3{
+    position: relative;
+}
+.row{
+    position: absolute;
+    bottom: 10px;
+}
+.col h1{
+    color: orange;
+    font-weight: 900;
+}
+.col button{
+    background-color: orange;
+    color: white;
+    font-size: 20px;
+    border-color: orange;
+}
+.col img:hover{
+    box-shadow: 4px 4px 5px 5px orange ;
+}
+/* ---------------------section 4 */
+.main-4{
+    position: relative;
+}
+.row{
+    position: absolute;
+    bottom: 10px;
+}
+.col h1{
+    color: orange;
+    font-weight: 900;
+}
+.col button{
+    background-color: orange;
+    color: white;
+    font-size: 20px;
+    border-color: orange;
+}
+.col img{
+    border-radius: 20px;
+}
+.col img:hover{
+    box-shadow: 4px 4px 5px 5px red;
+}
+/* ----------------------section 5============== */
+.main-5{
+    position: relative;
+}
+.row{
+    position: absolute;
+    bottom: 10px;
+}
+.col h1{
+    color: orange;
+    font-weight: 900;
+}
+.col button{
+    background-color: orange;
+    color: white;
+    font-size: 20px;
+    border-color: orange;
+}
+.col img{
+    border-radius: 20px;
+}
+.col img:hover{
+    box-shadow: 4px 4px 5px 5px rgb(63, 2, 63);
+}
+/* -----------------------sction 6 */
+.main-6{
+    position: relative;
+}
+.row{
+    position: absolute;
+    bottom: 10px;
+}
+.col h1{
+    color: orange;
+    font-weight: 900;
+}
+.col button{
+    background-color: orange;
+    color: white;
+    font-size: 20px;
+    border-color: orange;
+}
+.col img{
+    border-radius: 20px;
+}
+.col img:hover{
+    box-shadow: 4px 4px 5px 5px orange;
+}
